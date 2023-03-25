@@ -13,6 +13,10 @@
 
 # COMMAND ----------
 
+# MAGIC %md ######just a piece of code for pushish code to the main branch
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC set spark.sql.adaptive.enabled = true;
 
