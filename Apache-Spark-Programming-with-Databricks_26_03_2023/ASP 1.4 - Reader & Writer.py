@@ -51,7 +51,9 @@ display(spark.read.text("/mnt/training/ecommerce/users/users-500k.csv"))
 
 # COMMAND ----------
 
-#Added code to push it to Git main branch
+#Added code to push it to Git main branch 
+#Last attemp was unsuccessful, Added code again to push it to Git main branch 
+pass
 pass
 
 # COMMAND ----------
