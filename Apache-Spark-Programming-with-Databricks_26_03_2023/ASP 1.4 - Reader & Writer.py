@@ -51,6 +51,11 @@ display(spark.read.text("/mnt/training/ecommerce/users/users-500k.csv"))
 
 # COMMAND ----------
 
+#Added code to push it to Git main branch
+pass
+
+# COMMAND ----------
+
 usersCsvPath = "/mnt/training/ecommerce/users/users-500k.csv"
 
 usersDF = (spark
